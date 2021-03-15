@@ -1,4 +1,4 @@
-flycheck-rust — Flycheck for Rust
+flycheck-rust — Flycheck for Rost
 =================================
 
 [![Build Status][travis-badge]][travis-url]
